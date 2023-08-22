@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Marvel",
+      "movies": [
+        {
+          "id": 1,
+          "name": "Ironman",
+          "duration": "3h 22m",
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "ratingsGuide": "Must Watch",
+          "image": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2831&q=80"
+        },
+        {
+          "id": 2,
+          "name": "Captain America The First Avenger",
+          "duration": "2h 52m",
+          "rating": 3.5,
+          "numberOfReviews": 641,
+          "ratingsGuide": "Recommended",
+          "image": "https://images.unsplash.com/photo-1638379036667-ee3e8d663f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+        },
+        {
+          "id": 3,
+          "name": "Avengers End Game",
+          "duration": "2h 55m",
+          "rating": 5,
+          "numberOfReviews": 133,
+          "ratingsGuide": "Masterpiece",
+          "image": "https://images.unsplash.com/photo-1608889476518-738c9b1dcb40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1180&q=80"
+        },
+        {
+          "id": 4,
+          "name": "Spiderman into the spiderverse",
+          "duration": "3h",
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "ratingsGuide": "Must Watch",
+          "image": "https://images.unsplash.com/photo-1521714161819-15534968fc5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "DC",
+      "movies": [
+        {
+          "id": 4,
+          "name": "Batman Vs Superman",
+          "duration": "2h 30m",
+          "rating": 4,
+          "numberOfReviews": 462,
+          "ratingsGuide": "Must Watch",
+          "image": "https://images.unsplash.com/photo-1611604548018-d56bbd85d681?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+        },
+        {
+          "id": 5,
+          "name": "Justice League",
+          "duration": "3h 32m",
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "ratingsGuide": "Recommended",
+          "image": "https://images.unsplash.com/photo-1559107503-521c2b36b98d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+        },
+        {
+          "id": 6,
+          "name": "Aquaman",
+          "duration": "1h 50m",
+          "rating": 3.5,
+          "numberOfReviews": 641,
+          "ratingsGuide": "Recommended",
+          "image": "https://images.unsplash.com/photo-1535648451240-482a0bbd6e02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1064&q=80"
+        },
+        {
+          "id": 7,
+          "name": "The Dark Knight",
+          "duration": "2h 34m",
+          "rating": 4.5,
+          "numberOfReviews": 133,
+          "ratingsGuide": "Must Watch",
+          "image": "https://images.unsplash.com/photo-1497124401559-3e75ec2ed794?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+        }
+      ]
+    }
+  ]
