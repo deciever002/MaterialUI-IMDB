@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MaterialUI-IMDB/static/css/main.d8f7584e.css",
-    "main.js": "/MaterialUI-IMDB/static/js/main.2cd3da18.js",
+    "main.js": "/MaterialUI-IMDB/static/js/main.2fb569c0.js",
     "index.html": "/MaterialUI-IMDB/index.html",
     "main.d8f7584e.css.map": "/MaterialUI-IMDB/static/css/main.d8f7584e.css.map",
-    "main.2cd3da18.js.map": "/MaterialUI-IMDB/static/js/main.2cd3da18.js.map"
+    "main.2fb569c0.js.map": "/MaterialUI-IMDB/static/js/main.2fb569c0.js.map"
   },
   "entrypoints": [
     "static/css/main.d8f7584e.css",
-    "static/js/main.2cd3da18.js"
+    "static/js/main.2fb569c0.js"
   ]
 }
